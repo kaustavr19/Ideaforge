@@ -22,3 +22,22 @@ IdeaForge is a React-based workspace designed for personal ideas, bringing toget
 * Built with React (Hooks: `useState`, `useEffect`, `useRef`, `useMemo`).
 * Custom lightweight CSS for styling and animations (Bricolage Grotesque, Manrope, and JetBrains Mono fonts).
 * Markdown parsing for rich text rendering.
+* Vite for fast and modern build tooling.
+
+## Getting Started
+
+To get started with IdeaForge locally:
+
+1. **Clone the repository.**
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
